@@ -1,5 +1,7 @@
 # Cheat sheet for Software Technical Terms in Japanese
 
+## Hardware
+
 | Japanese Term               | English Equivalent        |
 |-----------------------------|---------------------------|
 | ハードウェア (ハード)        | Hardware                  |
@@ -11,14 +13,25 @@
 | 警報器 けいほうき   | Alarm                 |
 | 水位検知 すいい-けんち    | Water level detection                 |
 | 実験                        | experiment                  |
+| 組み込みソフトウェア         | Embedded  Software           |
+
+## Business
+
+| Japanese Term               | English Equivalent        |
+|-----------------------------|---------------------------|
 | 分析                        | Analyze                 |
 | 効率                        | Efficiency                 |
 | 担当する                        | Being responsible for            |
 | 設計 せっけい       | Design                  |
 | モニタリング  / 監視する         | Monitoring             |
 | ソフトウェア                 | Software                  |
-| 組み込みソフトウェア         | Embedded  Software           |
 | 開発                        | Development              |
+
+
+## Programming
+
+| Japanese Term               | English Equivalent        |
+|-----------------------------|---------------------------|
 | インタフェース              | Interface                 |
 | プログラミング言語          | Programming Language      |
 | アルゴリズム                | Algorithm                 |
