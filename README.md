@@ -6,7 +6,7 @@
 |-----------------------------|---------------------------|
 | ハードウェア (ハード)        | Hardware                  |
 | 物理 ぶつり                    | Physics                  |
-| 設備 せつび                       | Equipments        |
+| 設備 せつび                       | Equipment        |
 | 電子回路 でんしかいろ          | Electronic circuit         |
 | センサー   (検知器 けんちき)    | Sensor        |
 | ガス          | Gas                 |
@@ -21,16 +21,19 @@
 |-----------------------------|---------------------------|
 | 分析                        | Analyze                 |
 | 効率                        | Efficiency                 |
-| 担当する                        | Being responsible for            |
-| 設計 せっけい       | Design                  |
+| 担当する たんとう            | Being responsible for            |
+| 設計 せっけい / デザイン     | Design                  |
+| 開発                        | Development              |
 | モニタリング  / 監視する         | Monitoring             |
 | ソフトウェア                 | Software                  |
-| 開発                        | Development              |
-| システム                    | System                      |
+| システム                    | System         |
+| プラットホーム                | Platform         |
+| アプリケーション             | Application         |
 | リモート                        | Remote              |
 | 要件定義  ようけんていぎ      | Spec Definition            |
 | 要求定義 ようきゅう       | Requirements Definition       |
 | 非機能要件 ひきのうようけん    | Non-functional requirement   |
+| 仕様 しよう | Specification      |
 | 対応 たいおう   | Handle             |
 | 実装 じっそう   | Implementation                  |
 | 最適化 さいてきか      | Optimization              |
@@ -43,7 +46,12 @@
 | 取引　とりひき  | Business deal   |
 | 本番環境 ほんばんかんきょう  | Production environment      |
 | 検証 けんしょう | Testing      |
-
+| 移行 いこう | Migration      |
+| 上流工程 ジョウリュウコウテイ | Defining Phase      |
+| 下流工程 カリュウコウテイ | Development Phase      |
+| 運用保守 うんようほしゅ | Maintenance      |
+| 安定 あんてい | Stable      |
+| 稼働 かどう | Operation      |
 
 ## Programming
 
@@ -83,8 +91,6 @@
 | フロントエンド              | Frontend                  |
 | バックエンド                | Backend                   |
 | フルスタック                | Full Stack                |
-| デザイン                   |   Design                   |
-| アプリケーション            |   Application               |
 | モバイルアプリ              | Mobile App                |
 | クロスプラットフォーム       | Cross-Platform             |
 | パフォーマンス              | Performance               |
