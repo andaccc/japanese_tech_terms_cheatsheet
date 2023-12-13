@@ -28,6 +28,22 @@
 | 開発                        | Development              |
 | システム                    | System                      |
 | リモート                        | Remote              |
+| 要件定義  ようけんていぎ      | Spec Definition            |
+| 要求定義 ようきゅう       | Requirements Definition       |
+| 非機能要件 ひきのうようけん    | Non-functional requirement   |
+| 対応 たいおう   | Handle             |
+| 実装 じっそう   | Implementation                  |
+| 最適化 さいてきか      | Optimization              |
+| 連携 れんけい   | Integerate                      |
+| 顧客 こきゃく      | Customer              |
+| クライアント      | Client              |
+| 定例会 ていれいかい  | Regular meetings             |
+| 会議　かいぎ | Meetings      |
+| 打ち合わせ  | Meetings  (Smaller scale)   |
+| 取引　とりひき  | Business deal   |
+| 本番環境 ほんばんかんきょう  | Production environment      |
+| 検証 けんしょう | Testing      |
+
 
 ## Programming
 
