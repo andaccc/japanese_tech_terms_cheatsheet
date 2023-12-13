@@ -26,14 +26,18 @@
 | モニタリング  / 監視する         | Monitoring             |
 | ソフトウェア                 | Software                  |
 | 開発                        | Development              |
-
+| システム                    | System                      |
+| リモート                        | Remote              |
 
 ## Programming
 
 | Japanese Term               | English Equivalent        |
 |-----------------------------|---------------------------|
+| プログラミング言語 げんご         | Programming Language      |
+| 変数 へんすう              | Variable                 |
+| 関数 かんすう      | Function      |
+| 文字列 もじれつ               | String                  |
 | インタフェース              | Interface                 |
-| プログラミング言語          | Programming Language      |
 | アルゴリズム                | Algorithm                 |
 | データ構造                  | Data Structure            |
 | 関数型プログラミング        | Functional Programming    |
@@ -95,8 +99,6 @@
 | コンポーネント              | Component                 |
 | ライフサイクル              | Lifecycle                 |
 | デバッグツール              | Debugging Tools           |
-| システム                    | System                      |
-| リモート                        | Remote              |
 | リバース                     | Reverse                  |
 | メンテナンス                | Maintenance               |
 | インスタンス                | Instance                  |
