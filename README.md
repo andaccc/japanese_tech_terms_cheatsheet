@@ -128,3 +128,4 @@
 | サーバーレス                | Serverless                |
 | メモリリーク                | Memory Leak               |
 | ファイアウォール            | Firewall                  |
+| 認証 にんしょう   | Auth                  |
