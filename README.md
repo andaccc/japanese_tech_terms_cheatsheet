@@ -94,7 +94,6 @@
 | モバイルアプリ              | Mobile App                |
 | クロスプラットフォーム       | Cross-Platform             |
 | パフォーマンス              | Performance               |
-| テスト                      | Test        |
 | マルチスレッド              | Multithreading            |
 | マージ                      | Merge                     |
 | リクエスト                 |  Request              |
