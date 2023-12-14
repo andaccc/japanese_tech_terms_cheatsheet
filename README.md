@@ -61,6 +61,7 @@
 | 変数 へんすう              | Variable                 |
 | 関数 かんすう      | Function      |
 | 文字列 もじれつ               | String                  |
+|非同期処理 ひどうき | Async Handling|
 | インタフェース              | Interface                 |
 | アルゴリズム                | Algorithm                 |
 | データ構造                  | Data Structure            |
