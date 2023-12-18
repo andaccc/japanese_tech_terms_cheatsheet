@@ -26,7 +26,7 @@
 | 担当する たんとう            | Being responsible for            |
 | 設計 せっけい / デザイン     | Design                  |
 | 開発                        | Development              |
-| モニタリング  / 監視する         | Monitoring             |
+| モニタリング  / 監視する  かんし        | Monitoring       |
 | ソフトウェア                 | Software                  |
 | システム                    | System         |
 | プラットホーム                | Platform         |
@@ -39,7 +39,7 @@
 | 対応 たいおう   | Handle             |
 | 実装 じっそう   | Implementation                  |
 | 最適化 さいてきか      | Optimization              |
-| 連携 れんけい   | Integerate                      |
+| 連携 れんけい   | Integrate                      |
 | 顧客 こきゃく      | Customer              |
 | クライアント      | Client              |
 | 定例会 ていれいかい  | Regular meetings             |
@@ -59,6 +59,9 @@
 | 携わる たずさわる  | Related      |
 | 提供する ていきょう | Provide      |
 | 配達 はいたつ  | Delivery      |
+| 監察　かんさつ  | Inspection      |
+| 進捗　しんちょく  | Progress      |
+| 進捗　しんちょく  | Progress      |
 
 ## Programming
 
