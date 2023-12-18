@@ -9,11 +9,13 @@
 | 設備 せつび                       | Equipment        |
 | 電子回路 でんしかいろ          | Electronic circuit         |
 | センサー   (検知器 けんちき)    | Sensor        |
-| ガス          | Gas                 |
+| 毒ガス どくガス         | ToxicGas                 |
 | 警報器 けいほうき   | Alarm                 |
-| 水位検知 すいい-けんち    | Water level detection                 |
+| 水位検知 すいい-けんち    | Water level detection         |
 | 実験                        | experiment                  |
 | 組み込みソフトウェア         | Embedded  Software           |
+| 侵入 しんにゅう        | Invation           |
+| 制御 せいぎょ        | Control           |
 
 ## Business
 
@@ -52,6 +54,11 @@
 | 運用保守 うんようほしゅ | Maintenance      |
 | 安定 あんてい | Stable      |
 | 稼働 かどう | Operation      |
+| 自動化  | Automation      |
+| 実績 じっせき  | Achievements      |
+| 携わる たずさわる  | Related      |
+| 提供する ていきょう | Provide      |
+| 配達 はいたつ  | Delivery      |
 
 ## Programming
 
