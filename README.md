@@ -61,7 +61,7 @@
 | 配達 はいたつ  | Delivery      |
 | 監察　かんさつ  | Inspection      |
 | 進捗　しんちょく  | Progress      |
-| 進捗　しんちょく  | Progress      |
+| 建設業界  けんせつぎょうかい  | Construction Industry      |
 
 ## Programming
 
